@@ -9,4 +9,4 @@ Languages and Tools
 ![Haskell](https://img.shields.io/badge/Haskell-white?style=for-the-badge&logo=Haskell&logoColor=purple)
 ![HTML5](https://img.shields.io/badge/HTML5-green?style=for-the-badge&logo=HTML5&logoColor=blue)
 
-Follow Me
+[![Stepan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepkabeast&count_private=true)](https://github.com/stepkabeast/github-readme-stats)
