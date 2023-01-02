@@ -1,4 +1,4 @@
-[![Header](https://github.com/stepkabeast/stepkabeast/blob/main/assets/shapkaCut.png)]() 
+[![Header](https://github.com/stepkabeast/stepkabeast/blob/main/assets/shapka.png)]() 
 
 About me
 
